@@ -25,9 +25,17 @@ function renderCountdown() {
   countdownDisplay.textContent = remainingTime;
 
   const countdownToday = christmasDay - new Date();
-  const hours = Math.floor((countdownToday % day) / hour);
-  const minutes = Math.floor((countdownToday % hour) / minute);
-  const seconds = Math.floor((countdownToday % minute) / second);
+  const hours = String(Math.floor((countdownToday % day) / hour)).padStart(
+    2,
+    '0'
+  );
+  const minutes = String(Math.floor((countdownToday % hour) / minute)).padStart(
+    2,
+    '0'
+  );
+  const seconds = String(
+    Math.floor((countdownToday % minute) / second)
+  ).padStart(2, '0');
   time.innerHTML = `${hours} hrs ${minutes} mins ${seconds} secs`;
 }
 
