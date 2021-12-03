@@ -9,5 +9,10 @@ Level up your JavaScript skills with a daily coding challenge from December 1st 
 ### Technology Stack
 - JavaScript
 
+### JavaScriptmas 24 challenges
+- Day 1 Countdown to Christmas, [view project](https://codepen.io/terieyenike/pen/PoJwvrm)
+- Day 2 Toggle Christmas Theme, [view project](https://codepen.io/terieyenike/pen/jOGPoYm)
+- Day 3 Don't Scare your Relatives, [view project](https://codepen.io/terieyenike/pen/WNZvqrd)
+
 Contributor
 [Teri Eyenike](https://twitter.com/terieyenike)
