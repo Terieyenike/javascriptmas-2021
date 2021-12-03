@@ -8,7 +8,7 @@ const CHRISTMAS_THEME = 'christmas';
 function theme(CHRISTMAS_THEME) {
   greeting.textContent = CHRISTMAS_THEME
     ? '🎅 Merry Christmas!'
-    : '🎅 Merry Christmas!';
+    : 'Let it Snow! ☃️';
 }
 
 christmasBtn.addEventListener('change', (e) => {
