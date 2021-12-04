@@ -13,6 +13,7 @@ Level up your JavaScript skills with a daily coding challenge from December 1st 
 - Day 1 Countdown to Christmas, [view project](https://codepen.io/terieyenike/pen/PoJwvrm)
 - Day 2 Toggle Christmas Theme, [view project](https://codepen.io/terieyenike/pen/jOGPoYm)
 - Day 3 Don't Scare your Relatives, [view project](https://codepen.io/terieyenike/pen/WNZvqrd)
+- Day 4 Christmas Shopping Checklist, [view project](https://codepen.io/terieyenike/pen/oNGjPXB)
 
 Contributor
 [Teri Eyenike](https://twitter.com/terieyenike)
