@@ -1,5 +1,6 @@
 const shoppingForm = document.querySelector('.shopping');
 const list = document.querySelector('.list');
+const left = document.querySelector('.left');
 
 let items = [];
 
@@ -45,6 +46,13 @@ function displayItems() {
     )
     .join('');
   list.innerHTML = html;
+
+  left.innerHTML =
+    items.length === 0
+      ? ''
+      : items.length > 1
+      ? items.length + ' items left'
+      : items.length + ' item left';
 }
 
 function deleteItem(id) {

@@ -31,6 +31,7 @@ body {
   background: var(--snow);
   padding: 3em;
   border-radius: 5px;
+  position: relative;
 }
 
 .checklist ul {
@@ -86,4 +87,11 @@ button {
 
 .shopping-item button:hover {
   transform: scale(1.4);
+}
+
+.left {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 50%);
+  width: 100%;
 }
