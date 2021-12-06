@@ -15,6 +15,7 @@ Level up your JavaScript skills with a daily coding challenge from December 1st 
 - Day 3 Don't Scare your Relatives, [view project](https://codepen.io/terieyenike/pen/WNZvqrd)
 - Day 4 Christmas Shopping Checklist, [view project](https://codepen.io/terieyenike/pen/oNGjPXB)
 - Day 5 Christmas Card Writer, [view project](https://codepen.io/terieyenike/pen/zYEvyVw)
+- Day 6 Text Christmassifier, [view project](https://codepen.io/terieyenike/pen/XWeXpzo)
 
 Contributor
 [Teri Eyenike](https://twitter.com/terieyenike)
