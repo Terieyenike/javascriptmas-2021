@@ -19,6 +19,7 @@ Level up your JavaScript skills with a daily coding challenge from December 1st 
 - Day 7 Play Christmas Song, [view project](https://codepen.io/terieyenike/pen/oNGxvqy)
 - Day 8 Bell Animator, [view project](https://codepen.io/terieyenike/pen/oNGxvqy)
 - Day 9 Turn on the Decorations [view project](https://codepen.io/terieyenike/pen/ExwywRW)
+- Day 10 Festivity Loader [view project](https://codepen.io/terieyenike/pen/vYeXzWO)
 
 Contributor
 [Teri Eyenike](https://twitter.com/terieyenike)
