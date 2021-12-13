@@ -22,6 +22,7 @@ Level up your JavaScript skills with a daily coding challenge from December 1st 
 - Day 10 Festivity Loader [view project](https://codepen.io/terieyenike/pen/vYeXzWO)
 - Day 11 Christmas carousel [view project](https://codepen.io/terieyenike/pen/YzrpEKE)
 - Day 12 Christmas guest list [view project](https://codepen.io/terieyenike/pen/rNGWpGv)
+- Day 13 Christmas dinner calculator [view project](https://codepen.io/terieyenike/pen/eYGBVVw)
 
 Contributor
 [Teri Eyenike](https://twitter.com/terieyenike)
