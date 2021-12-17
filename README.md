@@ -26,6 +26,7 @@ Level up your JavaScript skills with a daily coding challenge from December 1st 
 - Day 14 Lonely Elf [view project](https://codepen.io/terieyenike/pen/XWeRpMv)
 - Day 15 Festivity Translator [view project](https://codepen.io/terieyenike/pen/oNGWBqY)
 - Day 16 Christmas movie selector [view project](https://codepen.io/terieyenike/pen/abLWpQN)
+- Day 17 Naughty list, Nice list [view project](https://codepen.io/terieyenike/pen/WNZjpbB)
 
 Contributor
 [Teri Eyenike](https://twitter.com/terieyenike)
