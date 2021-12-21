@@ -8,39 +8,22 @@
     <link rel="stylesheet" href="./style.css" />
   </head>
   <body>
-    <div class="snowman">
-      <div class="head">
-        <div class="eyes">
-          <div class="eye">
-            <div class="pupil"></div>
-          </div>
-          <div class="eye">
-            <div class="pupil"></div>
-          </div>
+     <h1>Reindeer speedometer 🦌</h1>
+        <div class="container">
+                <label for="select">Current location:</label>
+                <select id="select">
+                    <option id="munich" value="Munich">Munich</option>
+                    <option value="Kiev">Kiev</option>
+                    <option value="Ulaanbaatar">Ulaanbaatar</option>
+                    <option value="Sydney">Sydney</option>
+                    <option value="Tijuana">Tijuana</option>
+                    <option value="Chicago">Chicago</option>
+                </select>
+                <label for="time">Journey time:</label>
+                <input type="number" id="time" name="time" value=0>
         </div>
-        <div class="nose"></div>
-        <div class="mouth"></div>
-      </div>
-      <div class="snowman-body">
-        <div class="button"></div>
-        <div class="button"></div>
-        <div class="button"></div>
-      </div>
-    </div>
-    <div class="controls">
-      <div>
-        <input id="color" type="color" name="color" value="#99bbff" />
-        <label for="color">Eye Color</label>
-      </div>
-      <div>
-        <input id="color3" type="color" name="color3" value="#ffa500" />
-        <label for="color3">Nose Color</label>
-      </div>
-      <div>
-        <input id="color2" type="color" name="color2" value="#000" />
-        <label for="color2">Button Color</label>
-      </div>
-    </div>
+        <button type="button" id="btn">Calculate Speed</button>
+        <p id="speedometer">Enter current location and journey time to discover average reindeer speed.</span></p>
     <script src="./app.js"></script>
   </body>
 </html>
