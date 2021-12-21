@@ -29,6 +29,8 @@ Level up your JavaScript skills with a daily coding challenge from December 1st 
 - Day 17 Naughty list, Nice list [view project](https://codepen.io/terieyenike/pen/WNZjpbB)
 - Day 18 Custom shopping checkboxes [view project](https://codepen.io/terieyenike/pen/rNGwYwP)
 - Day 19 Dessert decider [view project](https://codepen.io/terieyenike/pen/xxXrPWx)
+- Day 20 Snowman customiser [view project](https://codepen.io/terieyenike/pen/abLyEEZ)
+- Day 21 Reindeer Speedometre  [view project](https://codepen.io/terieyenike/pen/eYGEyma)
 
 Contributor
 [Teri Eyenike](https://twitter.com/terieyenike)
